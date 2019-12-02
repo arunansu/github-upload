@@ -1,0 +1,8 @@
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\bin\Debug\netstandard2.0\PatFriendly.Shared.deps.json
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\bin\Debug\netstandard2.0\PatFriendly.Shared.dll
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\bin\Debug\netstandard2.0\PatFriendly.Shared.pdb
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\obj\Debug\netstandard2.0\PatFriendly.Shared.csprojAssemblyReference.cache
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\obj\Debug\netstandard2.0\PatFriendly.Shared.AssemblyInfoInputs.cache
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\obj\Debug\netstandard2.0\PatFriendly.Shared.AssemblyInfo.cs
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\obj\Debug\netstandard2.0\PatFriendly.Shared.dll
+C:\PAT\Dev\ASPNET\PatFriendly\PatFriendly\Shared\obj\Debug\netstandard2.0\PatFriendly.Shared.pdb
